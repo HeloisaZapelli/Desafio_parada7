@@ -1,0 +1,19 @@
+table{
+width: 600px;
+height: 400px;
+margin: auto;
+border-spacing: 0px;
+}
+
+table, td, tr{
+border: 1px solid black;
+text-align: center;
+}   
+
+.vd{
+    background-color: rgba(5, 75, 28, 0.836);
+    color: white;
+}
+.br{
+    background-color: white;
+}
